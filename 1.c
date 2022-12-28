@@ -6,7 +6,7 @@ int main()
 
 
 
-int add(int a,int b);
+int add(int a,int b);#修改看看会不会出错
 
 
 int sub(int a,int b);
